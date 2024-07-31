@@ -17,3 +17,8 @@ Create a property rental platform using React. The platform should allow users t
 <img src="https://res.cloudinary.com/drdjty87p/image/upload/v1722412915/Screenshot_2024-07-31_132257_f0jxgh.png"/>
 6) Success Page: Displays a message confirming the booking and thanking the user.<br/>
 <img src="https://res.cloudinary.com/drdjty87p/image/upload/v1722412915/Screenshot_2024-07-31_132307_dbsrmh.png"/>
+
+<h2>Authentication:</h2><br/>
+<p>Firebase</p><br/>
+<h2>Deployment:</h2><br/>
+<p>Vercel Website</p>
