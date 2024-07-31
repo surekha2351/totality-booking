@@ -1,0 +1,15 @@
+/* src/styles/SuccessPage.css */
+.success-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .success-image {
+    width: 50px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle; /* Align with text */
+    margin-right: 10px; /* Space between image and text */
+  }
+  .p{
+    color: rgb(14, 128, 14);
+  }
